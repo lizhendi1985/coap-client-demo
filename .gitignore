@@ -1,0 +1,14 @@
+# 编译产物
+build/
+bin/
+obj/
+*.o
+*.out
+*.exe
+*.log
+
+# IDE临时文件
+.vscode/.cache
+.vscode/**/*.log
+*.swp
+.DS_Store
