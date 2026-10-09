@@ -9,7 +9,7 @@ class Client {
 public:
     // Mock response only; no network request is sent.
     std::string get(const std::string& path) const;
-    int i;
+    int j;
 };
 
 } // namespace coap
